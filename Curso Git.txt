@@ -9,4 +9,3 @@ git commit -a = Comenta y guarda a la vez
 git add =  añadir un archivo
 git show = muestra lo guardado en un archivo especifico
 Q para salir de la pantalla llena de comandos
-
