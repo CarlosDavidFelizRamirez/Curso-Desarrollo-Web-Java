@@ -1,2 +1,4 @@
-esto es una de las pruebas de conflictos! 1234
-12
+a = 1
+b = 2
+if b > a:
+    print("b es mayor que a")
